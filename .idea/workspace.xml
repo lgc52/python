@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6476f618-e9db-4b8e-9c1b-71a4e4cc1783" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mypython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_itchat-master/.idea/django_itchat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_itchat-master/wechat/.idea/wechat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/cgi-bin/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/cgi-bin/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/cgi-bin/hello_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -32,8 +45,64 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../phpstudy_pro/Extensions/Apache2.4.39/cgi-bin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mypython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HUAWEI\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/wechat/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="mypython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HUAWEI\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,9 +118,61 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1585143901974">
+    <state x="176" y="116" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585231586485">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="404" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1585143901974" />
+    <state x="176" y="116" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1585231586485" />
+    <state x="480" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585231766593">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="480" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920@0.0.1440.920" timestamp="1585231766593" />
+    <state x="451" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585237240744">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1585237240744" />
+    <state x="501" y="227" key="FileChooserDialogImpl" timestamp="1585233847504">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="227" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1585233847504" />
+    <state width="1419" height="300" key="GridCell.Tab.0.bottom" timestamp="1585231733123">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1419" height="300" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1585231733123" />
+    <state width="1419" height="300" key="GridCell.Tab.0.center" timestamp="1585231733123">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1419" height="300" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1585231733123" />
+    <state width="1419" height="300" key="GridCell.Tab.0.left" timestamp="1585231733123">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1419" height="300" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1585231733123" />
+    <state width="1419" height="300" key="GridCell.Tab.0.right" timestamp="1585231733123">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1419" height="300" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1585231733123" />
+    <state width="1419" height="300" key="GridCell.Tab.1.bottom" timestamp="1585231733123">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1419" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1585231733123" />
+    <state width="1419" height="300" key="GridCell.Tab.1.center" timestamp="1585231733123">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1419" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1585231733123" />
+    <state width="1419" height="300" key="GridCell.Tab.1.left" timestamp="1585231733123">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1419" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1585231733123" />
+    <state width="1419" height="300" key="GridCell.Tab.1.right" timestamp="1585231733123">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1419" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1585231733123" />
+    <state x="404" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1585145215602">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="404" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1585145215602" />
+    <state x="383" y="195" key="search.everywhere.popup" timestamp="1585149847365">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1585149847365" />
   </component>
 </project>
